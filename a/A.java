@@ -11,8 +11,8 @@ public class A {
 		Dog dog = new Dog() {
 	    public void someDog ()
 	      {
-	      	int a = 10;
-	      	System.out.println(a);
+	      	int b = 10;
+	      	System.out.println(b);
 	        System.out.println("Anonymous Dog");
 	      }			
 	    };
